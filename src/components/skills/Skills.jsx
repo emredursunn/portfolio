@@ -1,6 +1,5 @@
 import React from "react";
 import ProgressBar from "../../chip/ProgressBar";
-import SkillBox from "../../chip/SkillBox";
 
 import { IoLogoHtml5, IoLogoCss3 } from "react-icons/io";
 
@@ -103,19 +102,17 @@ const Skills = ({ darkMode }) => {
           {/* right box */}
           <div className="right relative flex-1 flex flex-wrap p-5 gap-10 items-center justify-center sm:w-full">
             <div className="first2 flex flex-col gap-10">
-              <SkillBox
+              <ProgressBar
                 logo={<SiFirebase />}
-                black={"white"}
-                white={"black"}
-                skill={"Firebase"}
+                name={"Firebase"}
+                value={85}
               />
             </div>
             <div className="last2 flex flex-col gap-10">
-              <SkillBox
+              <ProgressBar
                 logo={<SiExpress />}
-                black={"black"}
-                white={"white"}
-                skill={"Express Js"}
+                name={"Express Js"}
+                value={40}
               />
             </div>
           </div>
