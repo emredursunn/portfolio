@@ -2,8 +2,8 @@ import React from "react";
 import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { SiGmail } from "react-icons/si";
-
 import { TypeAnimation } from "react-type-animation";
+import cvfoto1 from "/public/static/images/cvfoto1.png"
 
 const Hero = () => {
   return (
@@ -76,7 +76,7 @@ const Hero = () => {
           <div className="relative h-1/2 w-1/2 flex items-center sm:items-end rounded-full">
             <img
               className=" h-[90%]  w-full object-cover md:h-[95%] md:m-auto sm:m-0 rounded-full"
-              src="/public/cvfoto1.png"
+              src={cvfoto1}
               alt="mine"
             />
           </div>
