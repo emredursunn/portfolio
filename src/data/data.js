@@ -9,7 +9,7 @@ export const data = [
   },
   {
     id: 2,
-    img: "https://private-user-images.githubusercontent.com/126163359/358357512-c294ed4b-8339-4cbf-a933-8d4575ab9172.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM3NDkzMDQsIm5iZiI6MTcyMzc0OTAwNCwicGF0aCI6Ii8xMjYxNjMzNTkvMzU4MzU3NTEyLWMyOTRlZDRiLTgzMzktNGNiZi1hOTMzLThkNDU3NWFiOTE3Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgxNVQxOTEwMDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kOWNkNmEzNTc0NDJmMjA1Y2Q2YjE2OWI3YWQ2ZTg2Y2NlMDNhMmE2NzMzYzg1MGVhNWQxNmIyY2ZjMTUxZjhlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.HEyGP1CSq7KjuAgOsAz8XIpKxuItfnhfwCRvpqkHqnM",
+    img: "https://github.com/user-attachments/assets/c294ed4b-8339-4cbf-a933-8d4575ab9172",
     title: "Pet Match",
     desc: "Pet adoption platform with React Native (in development)",
     link: "",
@@ -17,7 +17,7 @@ export const data = [
   },
   {
     id: 3,
-    img: "https://private-user-images.githubusercontent.com/126163359/343054361-c45f87d4-5156-44bc-9ff8-b0111f3f4c18.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM3NDQ1MzIsIm5iZiI6MTcyMzc0NDIzMiwicGF0aCI6Ii8xMjYxNjMzNTkvMzQzMDU0MzYxLWM0NWY4N2Q0LTUxNTYtNDRiYy05ZmY4LWIwMTExZjNmNGMxOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgxNVQxNzUwMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mYjBjMzU5MzRmNmM2ODUzYjFjYWM2ZjgxMTkxYzU2NWYyOTY4NTQzM2I2ZTk5NDgwOWRiOTY3ZGU4ZmVjZjVkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.9fB43tB0PW4xLPGF7ioOcGvi8g5pydQuyGeUOjnvBAo",
+    img: "https://github.com/emredursunn/Wazzup/assets/126163359/c45f87d4-5156-44bc-9ff8-b0111f3f4c18",
     title: "Wazzup",
     desc: "Whatsapp with AI integration with React Native",
     link: "",
@@ -33,7 +33,7 @@ export const data = [
   },
   {
     id: 5,
-    img: "https://private-user-images.githubusercontent.com/126163359/341335939-28bd337b-62ca-486f-84a0-ba79798e44db.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM3NDQxODUsIm5iZiI6MTcyMzc0Mzg4NSwicGF0aCI6Ii8xMjYxNjMzNTkvMzQxMzM1OTM5LTI4YmQzMzdiLTYyY2EtNDg2Zi04NGEwLWJhNzk3OThlNDRkYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgxNVQxNzQ0NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNTk0Njk3MjVmNjQ4OWIxMTRkNzI0YmVhNDMyYTU3MTk1YzdhYTMxMmFkMWRiMGQzYzIzZjlmMzhiMWNlOTE3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.8c3u1mX_0n1xNbVrCFuArXQ0L1tFXxm0uQI15ea9bEo",
+    img: "https://github.com/emredursunn/RESERVED-MOBILE-APP-/assets/126163359/28bd337b-62ca-486f-84a0-ba79798e44db",
     title: "Reserved",
     desc: "Venue table reservation app with React Native",
     link: "",
