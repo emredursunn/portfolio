@@ -1,7 +1,5 @@
 import React from "react";
-import { FaTelegramPlane } from "react-icons/fa";
-import { IoLogoGithub, IoLogoLinkedin, IoLogoWhatsapp } from "react-icons/io";
-import { RiInstagramFill } from "react-icons/ri";
+import { IoLogoGithub, IoLogoLinkedin } from "react-icons/io";
 import { SiGmail } from "react-icons/si";
 
 const Footer = () => {
