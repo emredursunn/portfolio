@@ -11,7 +11,7 @@ export const data = [
     id: 2,
     img: "https://github.com/user-attachments/assets/c294ed4b-8339-4cbf-a933-8d4575ab9172",
     title: "Pet Match",
-    desc: "Pet adoption platform with React Native (in development)",
+    desc: "Pet adoption platform with React Native",
     link: "",
     git: "https://github.com/emredursunn/PetMatch",
   },

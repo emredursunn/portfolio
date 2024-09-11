@@ -15,6 +15,7 @@ import {
   SiAndroid,
   SiJquery,
   SiPostman,
+  SiMicrosoftsqlserver,
 } from "react-icons/si";
 import { FaReact } from "react-icons/fa";
 
@@ -41,18 +42,11 @@ const Skills = ({ darkMode }) => {
                 <ProgressBar
                   logo={<IoLogoHtml5 />}
                   name={"React Native"}
-                  value={90}
+                  value={100}
                 />
-                <ProgressBar
-                  logo={<SiRedux />}
-                  name={"Redux"}
-                  value={90}
-                />
-                <ProgressBar
-                  logo={<SiRedux />}
-                  name={"Zustand"}
-                  value={90}
-                />
+                <ProgressBar logo={<FaReact />} name={"React Js"} value={75} />
+                <ProgressBar logo={<SiRedux />} name={"Redux"} value={100} />
+                <ProgressBar logo={<SiRedux />} name={"Zustand"} value={90} />
                 <ProgressBar
                   logo={<SiJquery />}
                   name={"React-query"}
@@ -66,53 +60,51 @@ const Skills = ({ darkMode }) => {
                 <ProgressBar
                   logo={<SiReactivex />}
                   name={"Reanimated"}
-                  value={90}
+                  value={100}
                 />
                 <ProgressBar
                   logo={<SiTypescript />}
                   name={"Typescript"}
-                  value={95}
+                  value={100}
                 />
                 <ProgressBar
                   logo={<SiJavascript />}
                   name={"Javascript"}
-                  value={95}
+                  value={100}
                 />
-                <ProgressBar logo={<IoLogoHtml5 />} name={"HTML"} value={80} />
+                <ProgressBar logo={<IoLogoHtml5 />} name={"HTML"} value={70} />
                 <ProgressBar logo={<IoLogoCss3 />} name={"CSS"} value={80} />
-                <ProgressBar logo={<FaReact />} name={"React Js"} value={80} />
                 <ProgressBar
                   logo={<SiTailwindcss />}
                   name={"Tailwind CSS"}
                   value={85}
                 />
                 <ProgressBar
-                  logo={<SiKotlin />}
-                  name={"Kotlin"}
-                  value={60}
-                />
-                <ProgressBar
                   logo={<SiAndroid />}
                   name={"Android Development"}
-                  value={60}
+                  value={50}
                 />
+                <ProgressBar logo={<SiKotlin />} name={"Kotlin"} value={50} />
               </div>
             </div>
           </div>
           {/* right box */}
           <div className="right relative flex-1 flex flex-wrap p-5 gap-10 items-center justify-center sm:w-full">
             <div className="first2 flex flex-col gap-10">
-              <ProgressBar
-                logo={<SiFirebase />}
-                name={"Firebase"}
-                value={85}
-              />
+              <ProgressBar logo={<SiFirebase />} name={"Firebase"} value={85} />
             </div>
             <div className="last2 flex flex-col gap-10">
               <ProgressBar
                 logo={<SiExpress />}
                 name={"Express Js"}
                 value={40}
+              />
+            </div>
+            <div className="last2 flex flex-col gap-10">
+              <ProgressBar
+                logo={<SiMicrosoftsqlserver />}
+                name={"MS SQL"}
+                value={60}
               />
             </div>
           </div>
