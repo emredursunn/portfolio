@@ -44,7 +44,7 @@ const Skills = ({ darkMode }) => {
                   name={"React Native"}
                   value={100}
                 />
-                <ProgressBar logo={<FaReact />} name={"React Js"} value={75} />
+                <ProgressBar logo={<FaReact />} name={"React Js"} value={85} />
                 <ProgressBar logo={<SiRedux />} name={"Redux"} value={100} />
                 <ProgressBar logo={<SiRedux />} name={"Zustand"} value={90} />
                 <ProgressBar
@@ -72,8 +72,8 @@ const Skills = ({ darkMode }) => {
                   name={"Javascript"}
                   value={100}
                 />
-                <ProgressBar logo={<IoLogoHtml5 />} name={"HTML"} value={70} />
-                <ProgressBar logo={<IoLogoCss3 />} name={"CSS"} value={80} />
+                <ProgressBar logo={<IoLogoHtml5 />} name={"HTML"} value={85} />
+                <ProgressBar logo={<IoLogoCss3 />} name={"CSS"} value={85} />
                 <ProgressBar
                   logo={<SiTailwindcss />}
                   name={"Tailwind CSS"}
