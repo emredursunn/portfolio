@@ -16,6 +16,8 @@ import {
   SiJquery,
   SiPostman,
   SiMicrosoftsqlserver,
+  SiPython,
+  SiDjango,
 } from "react-icons/si";
 import { FaReact } from "react-icons/fa";
 
@@ -40,51 +42,35 @@ const Skills = ({ darkMode }) => {
             >
               <div className=" flex flex-col gap-6  w-3/4  my-5 md:w-[90%]">
                 <ProgressBar
+                  logo={<SiTypescript />}
+                  name={"Typescript"}
+                  value={100}
+                />
+                <ProgressBar
                   logo={<IoLogoHtml5 />}
                   name={"React Native"}
                   value={100}
                 />
-                <ProgressBar logo={<FaReact />} name={"React Js"} value={85} />
+                <ProgressBar logo={<FaReact />} name={"React Js"} value={90} />
                 <ProgressBar logo={<SiRedux />} name={"Redux"} value={100} />
-                <ProgressBar logo={<SiRedux />} name={"Zustand"} value={90} />
-                <ProgressBar
-                  logo={<SiJquery />}
-                  name={"React-query"}
-                  value={85}
-                />
-                <ProgressBar
-                  logo={<SiPostman />}
-                  name={"Restful APIs"}
-                  value={90}
-                />
                 <ProgressBar
                   logo={<SiReactivex />}
                   name={"Reanimated"}
                   value={100}
                 />
                 <ProgressBar
-                  logo={<SiTypescript />}
-                  name={"Typescript"}
-                  value={100}
-                />
-                <ProgressBar
-                  logo={<SiJavascript />}
-                  name={"Javascript"}
-                  value={100}
-                />
-                <ProgressBar logo={<IoLogoHtml5 />} name={"HTML"} value={85} />
-                <ProgressBar logo={<IoLogoCss3 />} name={"CSS"} value={85} />
-                <ProgressBar
                   logo={<SiTailwindcss />}
                   name={"Tailwind CSS"}
-                  value={85}
+                  value={90}
                 />
+                <ProgressBar logo={<SiPython />} name={"Python"} value={75} />
+                <ProgressBar logo={<SiDjango />} name={"Django"} value={75} />
+                <ProgressBar logo={<SiKotlin />} name={"Kotlin"} value={50} />
                 <ProgressBar
                   logo={<SiAndroid />}
-                  name={"Android Development"}
+                  name={"Native Android"}
                   value={50}
                 />
-                <ProgressBar logo={<SiKotlin />} name={"Kotlin"} value={50} />
               </div>
             </div>
           </div>
