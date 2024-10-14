@@ -44,9 +44,9 @@ const Resume = () => {
                   August 2024
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  I won 2nd place award with my web3 project named Hopechain. It
-                  allows to donate to charities on cross blockchain networks. It
-                  uses Circle API for payment.
+                  Achieved 2nd place among over 150 developers in a Web3
+                  application development contest. Developed a blockchain-based
+                  donation platform using React.
                 </p>
               </div>
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
@@ -60,10 +60,14 @@ const Resume = () => {
                   June 2024 - August 2024
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  I am contributing to the development of an application
-                  centered around in-app purchases using React Native. Our tech
-                  stack includes react-native-iap library for managing
-                  purchases.
+                  My responsibilities in this position: Collaborated with a
+                  cross-functional team to develop the Costa Coffee mobile
+                  application. Designed and implemented various screens of the
+                  mobile application using React Native. I had the opportunity
+                  to use AWS. Ensured a seamless user experience by integrating
+                  UI/UX best practices. Participated in code reviews and
+                  received feedback to improve code quality. Worked closely with
+                  team members to meet project deadlines and deliverables.
                 </p>
               </div>
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
@@ -77,12 +81,16 @@ const Resume = () => {
                   July 2023 - August 2024
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  During my internship, I contributed Pınar Online mobile
-                  application. I contributed across multiple departments. In the
-                  mobile development team, I utilized React Native with
-                  TypeScript to build and enhance features. Additionally, I was
-                  actively involved in the testing team, ensuring the
-                  application’s quality and performance.
+                  My responsibilities in this position: Contributed to the
+                  development of the Pınar Online mobile application. Observed
+                  and learned various aspects of mobile application development.
+                  I had the opportunity to learn the advantages of AWS. Assisted
+                  in testing to ensure the application's functionality and
+                  performance.I had the opportunity to learn unit tests and also
+                  did manual testing. Actively participated in code reviews for
+                  the frontend, gaining insights and feedback to improve my
+                  skills. Collaborated with team members to meet project
+                  deadlines and deliverables.
                 </p>
               </div>
             </div>
