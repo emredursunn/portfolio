@@ -20,10 +20,10 @@ const Hero = () => {
             <TypeAnimation
               data-aos="fade-up"
               sequence={[
-                "React Native Developer",
+                "Frontend Developer",
                 2000,
-                "React Developer",
-                2000,
+                //"React Developer",
+                //2000,
                 "",
               ]}
               speed={30}

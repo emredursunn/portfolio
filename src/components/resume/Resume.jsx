@@ -35,18 +35,22 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Web3 Contest
+                  Frontend Developer
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  Superteamearn
+                  Aurora Solution
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  August 2024
+                  November 2024 - Still
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  Achieved 2nd place among over 150 developers in a Web3
-                  application development contest. Developed a blockchain-based
-                  donation platform using React.
+                  My responsibilities in this position: As a Frontend Developer,
+                  I am responsible for designing and implementing the user interface
+                  of a large-scale HR application, collaborating closely with the
+                  backend team to ensure seamless integration with Django. My role
+                  involves creating user-friendly, responsive, and maintainable
+                  features that enhance the overall user experience, while
+                  adhering to best practices in frontend development. 
                 </p>
               </div>
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
@@ -72,7 +76,7 @@ const Resume = () => {
               </div>
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Summer Intern
+                  Software Developer Intern
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
                   Retter.io

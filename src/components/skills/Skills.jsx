@@ -18,8 +18,9 @@ import {
   SiMicrosoftsqlserver,
   SiPython,
   SiDjango,
+  SiPostgresql,
 } from "react-icons/si";
-import { FaReact } from "react-icons/fa";
+import { FaNodeJs, FaReact } from "react-icons/fa";
 
 const Skills = ({ darkMode }) => {
   return (
@@ -47,24 +48,18 @@ const Skills = ({ darkMode }) => {
                   value={100}
                 />
                 <ProgressBar
-                  logo={<IoLogoHtml5 />}
+                  logo={<FaReact />}
                   name={"React Native"}
                   value={100}
                 />
-                <ProgressBar logo={<FaReact />} name={"React Js"} value={90} />
-                <ProgressBar logo={<SiRedux />} name={"Redux"} value={100} />
-                <ProgressBar
-                  logo={<SiReactivex />}
-                  name={"Reanimated"}
-                  value={100}
-                />
+                <ProgressBar logo={<FaReact />} name={"React Js"} value={100} />
                 <ProgressBar
                   logo={<SiTailwindcss />}
                   name={"Tailwind CSS"}
-                  value={90}
+                  value={100}
                 />
                 <ProgressBar logo={<SiPython />} name={"Python"} value={75} />
-                <ProgressBar logo={<SiDjango />} name={"Django"} value={75} />
+                <ProgressBar logo={<SiDjango />} name={"Django"} value={80} />
                 <ProgressBar logo={<SiKotlin />} name={"Kotlin"} value={50} />
                 <ProgressBar
                   logo={<SiAndroid />}
@@ -81,16 +76,23 @@ const Skills = ({ darkMode }) => {
             </div>
             <div className="last2 flex flex-col gap-10">
               <ProgressBar
-                logo={<SiExpress />}
-                name={"Express Js"}
-                value={40}
+                logo={<FaNodeJs />}
+                name={"NodeJs"}
+                value={70}
               />
             </div>
             <div className="last2 flex flex-col gap-10">
               <ProgressBar
                 logo={<SiMicrosoftsqlserver />}
                 name={"MS SQL"}
-                value={60}
+                value={70}
+              />
+            </div>
+            <div className="last2 flex flex-col gap-10">
+              <ProgressBar
+                logo={<SiPostgresql />}
+                name={"Postgresql"}
+                value={70}
               />
             </div>
           </div>
