@@ -82,7 +82,7 @@ const Resume = () => {
                   Retter.io
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  July 2023 - August 2024
+                  July 2023 - August 2023
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
                   My responsibilities in this position: Contributed to the
