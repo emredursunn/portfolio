@@ -130,9 +130,7 @@ const Resume = () => {
                   Graduated
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                  I have learned Python, Java, Object oriented programming,
-                  Android development, Html, Css, Javascript. I have joined lots
-                  of seminers and learned from them.
+                  
                 </p>
               </div>
             </div>
