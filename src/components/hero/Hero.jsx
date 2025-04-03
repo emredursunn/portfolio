@@ -3,7 +3,7 @@ import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { SiGmail } from "react-icons/si";
 import { TypeAnimation } from "react-type-animation";
-import cvfoto1 from "/public/static/images/cvfoto1.png"
+import cvfoto2 from "/public/static/images/cvfoto2.jpeg"
 
 const Hero = () => {
   return (
@@ -75,8 +75,8 @@ const Hero = () => {
         <div className="right  top-5 flex-1 flex items-center justify-center md:items-end sm:items-end">
           <div className="relative h-1/2 w-1/2 flex items-center sm:items-end rounded-full">
             <img
-              className=" h-[90%]  w-full object-cover md:h-[95%] md:m-auto sm:m-0 rounded-full"
-              src={cvfoto1}
+              className=" h-full  w-full object-fit md:m-auto sm:m-0 rounded-md"
+              src={cvfoto2}
               alt="mine"
             />
           </div>
