@@ -27,7 +27,7 @@ const WorkCard = () => {
               <div
                 className={` popup w-full  h-[280px] shadow-xl rounded-md overflow-hidden sm:h-[260px] sm:w-[92%] p-4`}
               >
-                <p className=" text-gray-900 text-base leading-[1.4] text-justify w-[90%]">
+                <p className=" text-gray-900 text-center leading-[1.4]">
                   {data.desc}
                 </p>
                 <div className=" flex items-center justify-center gap-4">
@@ -42,6 +42,7 @@ const WorkCard = () => {
                     </Link>
                   )}
                   <br className="w-[2px] bg-white" />
+                  {data.git && (
                   <Link
                     to={data.git}
                     target="_blank"
@@ -50,6 +51,7 @@ const WorkCard = () => {
                     <AiOutlineGithub className="  text-black bg-white rounded-full border  w-[35px] h-[35px] p-2" />
                     <p className=" text-black">Code</p>
                   </Link>
+                  )}
                 </div>
               </div>
             </POPUP>

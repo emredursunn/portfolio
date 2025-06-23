@@ -41,7 +41,7 @@ const Resume = () => {
                   Aurora Solution
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  November 2024 - Still
+                  November 2024 - Present
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
                   My responsibilities in this position: As a Frontend Developer,
