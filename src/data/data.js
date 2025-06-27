@@ -4,7 +4,7 @@ export const data = [
     img: "/static/images/cmg-website.png",
     title: "CMG Fuel Oil",
     desc: "CMG Fuel Oil Web Page",
-    link: "https://cmgwebsite.vercel.app/",
+    link: "https://www.cmgakaryakit.com/",
     git: "",
   },
   {
