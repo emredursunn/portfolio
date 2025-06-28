@@ -20,10 +20,8 @@ const Hero = () => {
             <TypeAnimation
               data-aos="fade-up"
               sequence={[
-                "Frontend Developer",
+                "Fullstack Developer",
                 2000,
-                //"React Developer",
-                //2000,
                 "",
               ]}
               speed={30}
@@ -35,8 +33,7 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
-              A curious frontend developer who constantly researches new
-              technologies
+              Hello! I'm Emre Dursun, a passionate Fullstack Developer dedicated to building scalable and efficient web and mobile applications. I specialize in creating seamless user experiences by combining robust backend architectures with intuitive frontend interfaces. With expertise across a diverse tech stack, I thrive in dynamic environments where continuous learning and collaboration drive innovation.
             </p>
           </div>
           <div className="icons flex mt-5">

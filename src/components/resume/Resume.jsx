@@ -35,7 +35,7 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Frontend Developer
+                  Fullstack Developer
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
                   Aurora Solution
@@ -44,13 +44,19 @@ const Resume = () => {
                   November 2024 - Present
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  My responsibilities in this position: As a Frontend Developer,
-                  I am responsible for designing and implementing the user interface
-                  of a large-scale HR application, collaborating closely with the
-                  backend team to ensure seamless integration with Django. My role
-                  involves creating user-friendly, responsive, and maintainable
-                  features that enhance the overall user experience, while
-                  adhering to best practices in frontend development. 
+                Spearheaded the fullstack development of a comprehensive employee performance and analytics
+                platform, integrating PostgreSQL, Node.js, Next.js, TypeScript, TailwindCSS, and Django to deliver
+                seamless data flow, robust backend services, and dynamic user interfaces. <br />
+                Built and deployed a companion mobile application using React Native, enabling users to access key
+                performance metrics and notifications on the go, improving accessibility and team engagement. <br />
+                Led the entire UI/UX design lifecycle—from wireframing and prototyping to implementation—ensuring
+                intuitive, accessible, and goal-driven interfaces across both web and mobile platforms.
+                Designed and implemented modular, reusable components and backend services, streamlining
+                development workflows and enabling scalability and consistency throughout the system. <br />
+                Developed and optimized RESTful APIs and database schemas to support complex analytics and role-
+                based access control, ensuring performance and data integrity across platforms. <br />
+                Authored and maintained detailed technical documentation in Confluence, facilitating faster onboarding,
+                clearer collaboration across teams, and long-term maintainability of the codebase. <br />
                 </p>
               </div>
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
@@ -64,14 +70,10 @@ const Resume = () => {
                   June 2024 - August 2024
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  My responsibilities in this position: Collaborated with a
-                  cross-functional team to develop the Costa Coffee mobile
-                  application. Designed and implemented various screens of the
-                  mobile application using React Native. I had the opportunity
-                  to use AWS. Ensured a seamless user experience by integrating
-                  UI/UX best practices. Participated in code reviews and
-                  received feedback to improve code quality. Worked closely with
-                  team members to meet project deadlines and deliverables.
+                Collaborated with a cross-functional team to develop the Costa Coffee mobile application, designing and implementing multiple screens using React Native.<br />
+                Leveraged AWS services to enhance application functionality and scalability.<br />
+                Ensured a seamless user experience by integrating UI/UX best practices.<br />
+                Participated actively in code reviews to improve code quality and worked closely with team members to meet project deadlines and deliverables.<br />
                 </p>
               </div>
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
@@ -85,16 +87,11 @@ const Resume = () => {
                   July 2023 - August 2023
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  My responsibilities in this position: Contributed to the
-                  development of the Pınar Online mobile application. Observed
-                  and learned various aspects of mobile application development.
-                  I had the opportunity to learn the advantages of AWS. Assisted
-                  in testing to ensure the application's functionality and
-                  performance.I had the opportunity to learn unit tests and also
-                  did manual testing. Actively participated in code reviews for
-                  the frontend, gaining insights and feedback to improve my
-                  skills. Collaborated with team members to meet project
-                  deadlines and deliverables.
+                Contributed to the development of the Pınar Online mobile application, gaining hands-on experience in mobile development processes.<br />
+Explored AWS advantages and applied them to the project infrastructure.<br />
+Assisted in both manual and unit testing to ensure optimal functionality and performance.<br />
+Actively engaged in frontend code reviews, receiving valuable feedback to refine skills.<br />
+Collaborated effectively with the team to meet project milestones and deliverables.
                 </p>
               </div>
             </div>
