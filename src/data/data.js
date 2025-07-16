@@ -1,5 +1,13 @@
 export const data = [
   {
+    id: 3,
+    img: "/static/images/bearly-app.png",
+    title: "Language Learning App",
+    desc: "Language Learning App with React Native",
+    link: "https://www.linkedin.com/feed/update/urn:li:activity:7350623007125467136/",
+    git: "",
+  },
+  {
     id: 4,
     img: "/static/images/cmg-website.png",
     title: "CMG Fuel Oil",
@@ -38,13 +46,5 @@ export const data = [
     desc: "Rent a car mobile application with React Native",
     link: "",
     git: "https://github.com/emredursunn/HeyCar",
-  },
-  {
-    id: 3,
-    img: "https://github.com/emredursunn/Wazzup/assets/126163359/c45f87d4-5156-44bc-9ff8-b0111f3f4c18",
-    title: "Chat application with AI",
-    desc: "Whatsapp with AI integration with React Native",
-    link: "",
-    git: "https://github.com/emredursunn/Wazzup",
-  },
+  }
 ];
